@@ -1,0 +1,2 @@
+# LiveData
+LiveData é uma classe de titular de dados observável. Ao contrário de um observável regular, o LiveData reconhece o ciclo de vida, o que significa que respeita o ciclo de vida de outros componentes do aplicativo, como atividades, fragmentos ou serviços. Essa conscientização garante que o LiveData apenas atualize os observadores de componentes do aplicativo que estão em um estado de ciclo de vida ativo.
